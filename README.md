@@ -1,2 +1,5 @@
 # Fruit-List-Project
+
+My name is Nathan and this is my very first fruit list project.
+
 This code lets the user work with a list of fruits in several different ways. First, it shows a starting list, lets the user add fruits, choose a fruit by number, and finds fruits that start with a specific letter. Next, it practices removing fruits from the list, including deleting all copies of a chosen fruit. Then, it asks the user whether they like each fruit and keeps only the ones they like. Finally, it creates a new list where the fruit names are reversed and shows both the original and modified lists.
